@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<servlets>
+	<servlet>
+		<path>test</path>
+		<clazz>com.util.net.http.servlet.TestServlet</clazz>
+	</servlet>
+</servlets>
